@@ -1,0 +1,385 @@
+{
+  "sections": {
+    "16285850521c6f1af2": {
+      "type": "image--slideshow",
+      "blocks": {
+        "16285850521c6f1af2-0": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/1.webp",
+            "title": "",
+            "text": "",
+            "button_label": "",
+            "button_link": "",
+            "caption-background": "rgba(0,0,0,0)",
+            "caption-text": "#ffffff",
+            "button-text": "#ffffff",
+            "button-background": "#000000",
+            "captionHorizontal": "right",
+            "captionAlignment": "right"
+          }
+        }
+      },
+      "block_order": [
+        "16285850521c6f1af2-0"
+      ],
+      "settings": {
+        "slider-animation": "slide",
+        "slider-width": "full-screen",
+        "vertical-alignment": true,
+        "text-below-image": true,
+        "slider-slide-time": 5,
+        "caption-heading-size": 30,
+        "caption-subheading-size": 16,
+        "caption-button-size": 14,
+        "show-slide-dots": false,
+        "show-slide-arrows": true,
+        "slider-navigation-color": "#ffffff"
+      }
+    },
+    "collection-featured-collection-1": {
+      "type": "collection--featured-collection",
+      "settings": {
+        "colors": "white",
+        "title": "",
+        "richtext": "",
+        "collection": "",
+        "grid-desktop": 4,
+        "grid-tablet": 2,
+        "grid-mobile": 2,
+        "rows": 1,
+        "hover-effect": false,
+        "show-vendor": false,
+        "show_view_all": false
+      }
+    },
+    "1628585507e0d6e3a0": {
+      "type": "image--image-with-text-overlay",
+      "settings": {
+        "image_height": "30vw",
+        "bg_image_overlay_opacity": 0,
+        "parallax": false,
+        "title": "Share your story",
+        "text": "Add a large image with text overlay to give focus to your chosen product, collection, or blog post",
+        "colors": "light",
+        "textPosition": "left",
+        "textAlignment": "left",
+        "heading--text-size": 46,
+        "text--text-size": 18,
+        "link": "",
+        "button_label": "",
+        "button-text": "#ffffff",
+        "button-background": "#000000"
+      }
+    },
+    "1628585681433938e6": {
+      "type": "collection--featured-collection",
+      "settings": {
+        "colors": "white",
+        "title": "",
+        "richtext": "",
+        "collection": "",
+        "grid-desktop": 4,
+        "grid-tablet": 2,
+        "grid-mobile": 2,
+        "rows": 2,
+        "hover-effect": false,
+        "show-vendor": false,
+        "show_view_all": false
+      }
+    },
+    "1628585721a8b1b9a7": {
+      "type": "image--image-with-text-overlay",
+      "settings": {
+        "image_height": "30vw",
+        "bg_image_overlay_opacity": 0,
+        "parallax": false,
+        "title": "Share your story",
+        "text": "Add a large image with text overlay to give focus to your chosen product, collection, or blog post",
+        "colors": "light",
+        "textPosition": "left",
+        "textAlignment": "right",
+        "heading--text-size": 26,
+        "text--text-size": 18,
+        "link": "",
+        "button_label": "",
+        "button-text": "#ffffff",
+        "button-background": "#000000"
+      }
+    },
+    "16285857676484908c": {
+      "type": "image--logo-list",
+      "blocks": {
+        "16285857676484908c-0": {
+          "type": "logo_image",
+          "settings": {
+            "link": ""
+          }
+        },
+        "16285857676484908c-1": {
+          "type": "logo_image",
+          "settings": {
+            "link": ""
+          }
+        },
+        "16285857676484908c-2": {
+          "type": "logo_image",
+          "settings": {
+            "link": ""
+          }
+        },
+        "16285857676484908c-3": {
+          "type": "logo_image",
+          "settings": {
+            "link": ""
+          }
+        }
+      },
+      "block_order": [
+        "16285857676484908c-0",
+        "16285857676484908c-1",
+        "16285857676484908c-2",
+        "16285857676484908c-3"
+      ],
+      "settings": {
+        "colors": "dark",
+        "width": 150,
+        "title": "As seen in"
+      }
+    },
+    "1628585915d1cc58c1": {
+      "type": "text--testimonials",
+      "settings": {
+        "colors": "white",
+        "circle_images": true,
+        "title": "Testimonials"
+      }
+    },
+    "16285860680aaf4d46": {
+      "type": "products--featured-product",
+      "settings": {
+        "title": "",
+        "richtext": "",
+        "featured_product": "",
+        "product_variant_style": "dropdowns",
+        "hide_soldout_variants": false,
+        "show-giftwrap": false,
+        "show-vendor": false,
+        "show_product_description": false,
+        "show_quantity_selector": false,
+        "show_add_to_cart": false,
+        "show_smart_checkout": false,
+        "image-placement": "left",
+        "enable_video_loop": false
+      }
+    },
+    "1628586070aeecc586": {
+      "type": "image--gallery",
+      "blocks": {
+        "1628586070aeecc586-0": {
+          "type": "image",
+          "settings": {
+            "link": "",
+            "subheading": "",
+            "title": "",
+            "overlay-btn-text": "",
+            "show-gradient-overlay": true,
+            "overlay_font_color": "#ffffff",
+            "overlay_color": "#323232"
+          }
+        },
+        "1628586070aeecc586-1": {
+          "type": "image",
+          "settings": {
+            "link": "",
+            "subheading": "",
+            "title": "",
+            "overlay-btn-text": "",
+            "show-gradient-overlay": true,
+            "overlay_font_color": "#ffffff",
+            "overlay_color": "#323232"
+          }
+        },
+        "1628586070aeecc586-2": {
+          "type": "image",
+          "settings": {
+            "link": "",
+            "subheading": "",
+            "title": "",
+            "overlay-btn-text": "",
+            "show-gradient-overlay": true,
+            "overlay_font_color": "#ffffff",
+            "overlay_color": "#323232"
+          }
+        },
+        "835d0da4-120c-4fcf-92fa-f7dca4b44d57": {
+          "type": "image",
+          "settings": {
+            "link": "",
+            "subheading": "",
+            "title": "",
+            "overlay-btn-text": "",
+            "show-gradient-overlay": true,
+            "overlay_font_color": "#ffffff",
+            "overlay_color": "#323232"
+          }
+        }
+      },
+      "block_order": [
+        "1628586070aeecc586-0",
+        "1628586070aeecc586-1",
+        "1628586070aeecc586-2",
+        "835d0da4-120c-4fcf-92fa-f7dca4b44d57"
+      ],
+      "settings": {
+        "colors": "white",
+        "title": "",
+        "richtext": "",
+        "remove-spacing": true,
+        "full-width": false,
+        "section-width": "full",
+        "content-position": "hide"
+      }
+    },
+    "1628586118e8d93e38": {
+      "type": "image--gallery",
+      "blocks": {
+        "1628586118e8d93e38-0": {
+          "type": "image",
+          "settings": {
+            "link": "",
+            "subheading": "",
+            "title": "",
+            "overlay-btn-text": "",
+            "show-gradient-overlay": true,
+            "overlay_font_color": "#ffffff",
+            "overlay_color": "#323232"
+          }
+        },
+        "1628586118e8d93e38-1": {
+          "type": "image",
+          "settings": {
+            "link": "",
+            "subheading": "",
+            "title": "",
+            "overlay-btn-text": "",
+            "show-gradient-overlay": true,
+            "overlay_font_color": "#ffffff",
+            "overlay_color": "#323232"
+          }
+        },
+        "1628586118e8d93e38-2": {
+          "type": "image",
+          "settings": {
+            "link": "",
+            "subheading": "",
+            "title": "",
+            "overlay-btn-text": "",
+            "show-gradient-overlay": true,
+            "overlay_font_color": "#ffffff",
+            "overlay_color": "#323232"
+          }
+        },
+        "eeebf197-454b-4862-811d-9eaa9c6dd12e": {
+          "type": "image",
+          "settings": {
+            "link": "",
+            "subheading": "",
+            "title": "",
+            "overlay-btn-text": "",
+            "show-gradient-overlay": true,
+            "overlay_font_color": "#ffffff",
+            "overlay_color": "#323232"
+          }
+        }
+      },
+      "block_order": [
+        "1628586118e8d93e38-0",
+        "1628586118e8d93e38-1",
+        "1628586118e8d93e38-2",
+        "eeebf197-454b-4862-811d-9eaa9c6dd12e"
+      ],
+      "settings": {
+        "colors": "white",
+        "title": "",
+        "richtext": "",
+        "remove-spacing": true,
+        "full-width": false,
+        "section-width": "full",
+        "content-position": "hide"
+      }
+    },
+    "16285861334dff250d": {
+      "type": "blog--blog-posts",
+      "blocks": {
+        "16285861334dff250d-0": {
+          "type": "blog",
+          "settings": {
+            "blog": "news"
+          }
+        }
+      },
+      "block_order": [
+        "16285861334dff250d-0"
+      ],
+      "settings": {
+        "colors": "white",
+        "title": "From the blog",
+        "richtext": "",
+        "blog_show_date": false,
+        "post_limit": 3
+      }
+    },
+    "16285862085894e91c": {
+      "type": "text--text-adverts",
+      "blocks": {
+        "16285862085894e91c-0": {
+          "type": "text",
+          "settings": {
+            "heading": "What makes you different",
+            "subheading": "Shout about your unique selling points",
+            "link": ""
+          }
+        },
+        "16285862085894e91c-1": {
+          "type": "text",
+          "settings": {
+            "heading": "What makes you different",
+            "subheading": "Shout about your unique selling points",
+            "link": ""
+          }
+        }
+      },
+      "block_order": [
+        "16285862085894e91c-0",
+        "16285862085894e91c-1"
+      ],
+      "settings": {
+        "colors": "dark"
+      }
+    },
+    "16285862119b643d6f": {
+      "type": "newsletter--newsletter",
+      "settings": {
+        "colors": "white",
+        "newsletter_heading": "Join our Mailing List",
+        "newsletter_description": ""
+      }
+    }
+  },
+  "order": [
+    "16285850521c6f1af2",
+    "collection-featured-collection-1",
+    "1628585507e0d6e3a0",
+    "1628585681433938e6",
+    "1628585721a8b1b9a7",
+    "16285857676484908c",
+    "1628585915d1cc58c1",
+    "16285860680aaf4d46",
+    "1628586070aeecc586",
+    "1628586118e8d93e38",
+    "16285861334dff250d",
+    "16285862085894e91c",
+    "16285862119b643d6f"
+  ]
+}

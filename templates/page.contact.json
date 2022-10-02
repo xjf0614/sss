@@ -1,0 +1,37 @@
+{
+  "sections": {
+    "main": {
+      "type": "template--page-contact",
+      "blocks": {
+        "name": {
+          "type": "text",
+          "settings": {
+            "field-type": "text"
+          }
+        },
+        "email": {
+          "type": "text",
+          "settings": {
+            "field-type": "email"
+          }
+        },
+        "message": {
+          "type": "text",
+          "settings": {
+            "field-type": "textbox"
+          }
+        }
+      },
+      "block_order": [
+        "name",
+        "email",
+        "message"
+      ],
+      "settings": {
+      }
+    }
+  },
+  "order": [
+    "main"
+  ]
+}

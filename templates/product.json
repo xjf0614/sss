@@ -1,0 +1,170 @@
+{
+  "sections": {
+    "product-form": {
+      "type": "template--product",
+      "blocks": {
+        "media": {
+          "type": "media",
+          "settings": {
+            "image_size": "small",
+            "image-display": "full-size",
+            "thumbnail_position": "below",
+            "enable_image_zoom": false,
+            "enable_video_loop": false
+          }
+        },
+        "sale_badge": {
+          "type": "sale_badge",
+          "settings": {
+          }
+        },
+        "title": {
+          "type": "title",
+          "settings": {
+          }
+        },
+        "price": {
+          "type": "price",
+          "settings": {
+            "shipping_policy": false,
+            "tax_included": false
+          }
+        },
+        "options": {
+          "type": "options",
+          "settings": {
+            "product_variant_style": "swatches",
+            "thumbnail_changes_variant": false,
+            "hide_soldout_variants": false
+          }
+        },
+        "quantity": {
+          "type": "quantity",
+          "settings": {
+          }
+        },
+        "buy_buttons": {
+          "type": "buy_buttons",
+          "settings": {
+            "show_smart_checkout": false
+          }
+        },
+        "cross-sells": {
+          "type": "cross-sells",
+          "settings": {
+          }
+        }
+      },
+      "block_order": [
+        "media",
+        "sale_badge",
+        "title",
+        "price",
+        "options",
+        "quantity",
+        "buy_buttons",
+        "cross-sells"
+      ],
+      "settings": {
+        "enable_sticky": false,
+        "show_out_of_stock_email": true
+      }
+    },
+    "product-description": {
+      "type": "template--product--description",
+      "settings": {
+        "enable_readmore": false
+      }
+    },
+    "product-recommendations": {
+      "type": "template--product--recommendations",
+      "blocks": {
+        "product_card_image": {
+          "type": "product_card_image",
+          "settings": {
+            "hover-effect": false,
+            "enable_badges": false
+          }
+        },
+        "product_card_title": {
+          "type": "product_card_title",
+          "settings": {
+          }
+        },
+        "product_card_vendor": {
+          "type": "product_card_vendor",
+          "settings": {
+          }
+        },
+        "product_card_price": {
+          "type": "product_card_price",
+          "settings": {
+          }
+        },
+        "product_card_button": {
+          "type": "product_card_button",
+          "settings": {
+          }
+        }
+      },
+      "block_order": [
+        "product_card_image",
+        "product_card_title",
+        "product_card_vendor",
+        "product_card_price",
+        "product_card_button"
+      ],
+      "settings": {
+        "product_recommendations_heading": "You may also like"
+      }
+    },
+    "recently-viewed": {
+      "type": "template--product--recently-viewed",
+      "blocks": {
+        "product_card_image": {
+          "type": "product_card_image",
+          "settings": {
+            "hover-effect": false,
+            "enable_badges": true
+          }
+        },
+        "product_card_title": {
+          "type": "product_card_title",
+          "settings": {
+          }
+        },
+        "product_card_vendor": {
+          "type": "product_card_vendor",
+          "settings": {
+          }
+        },
+        "product_card_price": {
+          "type": "product_card_price",
+          "settings": {
+          }
+        },
+        "product_card_button": {
+          "type": "product_card_button",
+          "settings": {
+          }
+        }
+      },
+      "block_order": [
+        "product_card_image",
+        "product_card_title",
+        "product_card_vendor",
+        "product_card_price",
+        "product_card_button"
+      ],
+      "settings": {
+        "recently_viewed_title": "Recently viewed products"
+      }
+    }
+  },
+  "order": [
+    "product-form",
+    "product-description",
+    "product-recommendations",
+    "recently-viewed"
+  ]
+}

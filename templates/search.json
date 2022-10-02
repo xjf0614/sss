@@ -1,0 +1,13 @@
+{
+  "wrapper": "div.collection-wrapper",
+  "sections": {
+    "main": {
+      "type": "template--search",
+      "settings": {
+      }
+    }
+  },
+  "order": [
+    "main"
+  ]
+}
